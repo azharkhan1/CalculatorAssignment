@@ -1,0 +1,28 @@
+.main{  
+        border : 2px solid black;
+        width:200px;
+        margin: 0 auto;
+}
+.result{
+            width:96%;
+        
+}
+.history{
+                width: 96%;
+               
+               
+}
+.delete{
+                margin-top:2px;
+                height:22px;
+                width:20px;
+}
+
+.btn{
+        width:47px;
+        margin-top:2px;
+}
+
+.halfBtn{
+            width:149px;
+}
