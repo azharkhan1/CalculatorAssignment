@@ -1,0 +1,26 @@
+.main{  
+        border : 2px solid gray;
+        width:150px;
+        border-radius: 5px 5px 5px 5px;
+        margin: 0 auto;
+      
+}
+.result{
+            width:93%;
+            margin-top:1px;
+            margin-left:1px;
+        
+}
+/* .history{
+                width: 96%;              
+} */
+
+.btn{
+        width:33px;
+        margin-top:2px;
+        font-size: 9px;
+}
+.buttons{
+                margin-left:3px;
+                margin-bottom:2px;
+}
